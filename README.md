@@ -1,5 +1,5 @@
 # Self-Guided-Network
-This is an unofficial reimplement of "Self-Guided Network for Fast Image Denoising" of ICCV2019.
+This is an unofficial reimplementation of "Self-Guided Network for Fast Image Denoising" of ICCV2019.
 
 The SGN Network is implemented by class of SelfGuidedNet in script "modules/featNet.py" .
 
